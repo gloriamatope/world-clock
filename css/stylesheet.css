@@ -1,4 +1,10 @@
-body{
-    background: red;
+body {
+    background: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);;
     color: white;
+}
+h1 {
+text-align: center;
+}
+footer{
+    text-align: center;
 }
